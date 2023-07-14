@@ -1,5 +1,4 @@
-# UdemigSchool
-# Proje6
+
 
 <h2>Okul Projesi</h2>
 
@@ -12,6 +11,4 @@ HTML, CSS, kullanıldı
 <h2>Ekran görüntüsü</h2>
 
 ![](aaa.gif)
-
-
 # Proje6

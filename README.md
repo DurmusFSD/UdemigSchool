@@ -10,5 +10,3 @@ HTML, CSS, kullanıldı
 
 ![](aaa.gif)
 
-
-# Udemig

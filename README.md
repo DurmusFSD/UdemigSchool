@@ -1,5 +1,3 @@
-
-
 <h2>Okul Projesi</h2>
 
 HTML ve Css ile  yapılmıştır.
@@ -11,4 +9,6 @@ HTML, CSS, kullanıldı
 <h2>Ekran görüntüsü</h2>
 
 ![](aaa.gif)
-# Proje6
+
+
+# Udemig
